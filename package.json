@@ -1,0 +1,23 @@
+{
+  "name": "next-prime-number",
+  "version": "1.0.0",
+  "description": "Node Application to generate next prime number in a series.\r App will ask for user input if he wants to retirive next prime number.",
+  "main": "app.js",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitridhal/next-prime-number.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitridhal/next-prime-number/issues"
+  },
+  "homepage": "https://github.com/sumitridhal/next-prime-number#readme"
+}
